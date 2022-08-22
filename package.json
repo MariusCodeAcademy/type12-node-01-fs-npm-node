@@ -1,0 +1,22 @@
+{
+  "name": "01-fs-npm-node",
+  "version": "1.0.0",
+  "description": "First Node project",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariusCodeAcademy/type12-node-01-fs-npm-node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Marius K. <Marius@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MariusCodeAcademy/type12-node-01-fs-npm-node/issues"
+  },
+  "homepage": "https://github.com/MariusCodeAcademy/type12-node-01-fs-npm-node#readme"
+}
